@@ -1,0 +1,17 @@
+[package]
+name = "biotoxin495/analyticskit"
+description = "A standalone, server-only wrapper around Roblox AnalyticsService."
+version = "1.0.0"
+license = "MIT"
+authors = ["biotoxin495"]
+realm = "shared"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/biotoxin495/AnalyticsKit"
+
+exclude = [
+	"examples",
+	"docs",
+	".github",
+	"*.rbxl",
+	"*.rbxlx",
+]
