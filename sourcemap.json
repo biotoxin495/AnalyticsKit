@@ -1,1 +1,1 @@
-{"name":"AnalyticsKit","className":"DataModel","filePaths":["default.project.json"],"children":[{"name":"ReplicatedStorage","className":"ReplicatedStorage","children":[{"name":"AnalyticsKit","className":"ModuleScript","filePaths":["src/init.luau"]}]}]}
+{"name":"AnalyticsKit","className":"DataModel","filePaths":["default.project.json"],"children":[{"name":"ReplicatedStorage","className":"ReplicatedStorage","children":[{"name":"AnalyticsKit","className":"Folder"}]}]}

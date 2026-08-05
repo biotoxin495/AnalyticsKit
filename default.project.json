@@ -1,12 +1,6 @@
 {
-  "name": "AnalyticsKit",
+  "name": "analyticskit",
   "tree": {
-    "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "AnalyticsKit": {
-        "$path": "src"
-      }
-    }
+    "$path": "src"
   }
 }
