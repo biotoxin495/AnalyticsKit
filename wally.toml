@@ -1,7 +1,7 @@
 [package]
 name = "biotoxin495/analyticskit"
 description = "A standalone, server-only wrapper around Roblox AnalyticsService."
-version = "1.0.1"
+version = "1.0.2"
 license = "MIT"
 authors = ["biotoxin495"]
 realm = "shared"
