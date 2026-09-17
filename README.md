@@ -814,4 +814,10 @@ README.md                        Documentation
 
 Refer to the Roblox Creator Hub documentation for the current AnalyticsService API and platform limits.
 
+## License
+
+This project is released under the MIT License.
+
+See `LICENSE` for details.
+
 made with ❤️ by biotoxin495
